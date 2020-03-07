@@ -2,12 +2,6 @@ sudo: required
 services:
   - docker
 
-before_install:
-  - docker build -t morfkardsdev/react-test -f ./client/Dockerfile.dev ./client
-
-script:
-  - docker run -e CI=true morfkardsdev/react-test npm test
-
 after_success:
   - docker build -t morfkardsdev/multi-client ./client
   - docker build -t morfkardsdev/multi-nginx ./nginx
