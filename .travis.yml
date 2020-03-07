@@ -3,7 +3,7 @@ sudo: required
 services:
   - docker
 
-after_success:
+script:
   - docker build -t morfkardsdev/multi-client ./client
   - docker build -t morfkardsdev/multi-nginx ./nginx
   - docker build -t morfkardsdev/multi-server ./server
