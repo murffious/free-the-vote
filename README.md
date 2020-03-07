@@ -1,4 +1,4 @@
-# aws-travis-prod-workflow
+# aws-travis-production-grade-workflow
 _repo that uses Docker, Nginx, Node.JS server, React, SQL Postgres, Redis Caching, CD/CI w/Travis workflows to test/host to AWS_ 
  - Push code 
  - Travis pulls repo
