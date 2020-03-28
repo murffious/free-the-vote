@@ -6,9 +6,6 @@
 
 - Seek to get Candidates to endorse it to bring validity and also hold them accountable to the general easy acceile public and not just the news sites. 
 
-## Tech stack 
-Node React or Angular with Azure ML or AWS ML and Creative Tim Themes 
-
 ## Documentation
 
 Check out our [documentation website](https://kards.dev/rockmyvote).
@@ -42,7 +39,9 @@ This project is licensed under the terms of the
 [MIT license](/LICENSE).
 
 
-# aws-travis-production-grade-workflow
+## Tech stack 
+- Node React, Creative Tim Themes for styling/UI components, AWS ML and Python AWS Lambda
+- aws-travis-production-grade-workflow
 _repo that uses Docker, Nginx, Node.JS server, React, SQL Postgres, Redis Caching, CD/CI w/Travis workflows to test/host to AWS_ 
  - Push code 
  - Travis pulls repo
