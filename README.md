@@ -51,5 +51,4 @@ _repo that uses Docker, Nginx, Node.JS server, React, SQL Postgres, Redis Cachin
  - Travis pushes project to AWS Elastic Beanstalk (S3 bucket is used for the code)
  - EB pulls images from Docker Hub, deploys
 
-*Based on code from the Docker and Kubernetes Course on Udemy by Stephen Grider
 
