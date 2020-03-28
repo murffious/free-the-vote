@@ -22,7 +22,7 @@ Although we love giving you the opportunity to put your stamp on RockMyVote, we 
 
 ### Gold 🏆
 
-Diamond Sponsors are those who have pledged $100/month or more to RockMyVote.
+Gold Sponsors are those who have pledged $100/month or more to RockMyVote.
 via [OpenCollective](https://opencollective.com/rockmyvote)
 
 ## Changelog
